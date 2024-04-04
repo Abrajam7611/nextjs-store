@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Layouy({children}: {children: React.ReactNode}) {
+export default function Layout({children}: {children: React.ReactNode}) {
     return(
         <main>
             <nav>
