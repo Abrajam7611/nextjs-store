@@ -1,0 +1,13 @@
+.Hero{
+    margin: 10rem;
+}
+.Hero > h1{
+    font-size: 3rem;
+    color: rgb(0, 229, 255);
+    text-align: center;
+}
+.Hero>h2{
+    font-size: 3rem;
+    color:rgb(0, 149, 255);
+    text-align: center;
+}
